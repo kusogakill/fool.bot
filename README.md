@@ -10,7 +10,7 @@
 と表示される場合がありますが、  
 **「詳細情報 → 実行」** を選択して問題ありません。
 
-***The README is written in Japanese. If you can't read Japanese, do not use this bot!***
+**The README is written in Japanese. If you can't read Japanese, do not use this bot!**
 
 ---
 
