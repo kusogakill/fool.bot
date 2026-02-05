@@ -1,4 +1,4 @@
-# Fool.bot README
+# README
 
 ## 概要
 - 対象サイト: https://zinro.net/
@@ -10,18 +10,18 @@
 と表示される場合がありますが、  
 **「詳細情報 → 実行」** を選択して問題ありません。
 
+***The README is written in Japanese. If you can't read Japanese, do not use this bot!***
+
 ---
 
 ## クレジット
 
 ***このbotは丹盗(◆NITORI/JZs) and @ねぎら(◆/NEGIRA/ic)によって作成されました！***  
 ***This bot was created by Nitori(◆NITORI/JZs) and negiradomoti(◆/NEGIRA/ic)!***  
-***The README is written in Japanese. If you can't read Japanese, do not use this bot!***
 
 ---
 
 ## 使用前の注意（重要）
-
 以下の事項を踏まえたうえで使用してください。  
 これより「使用前の注意」を**本規約**と称します。
 
