@@ -1,4 +1,5 @@
 # README
+**The README is written in Japanese. If you can't read Japanese, do not use this bot!**
 
 ## 概要
 - 対象サイト: https://zinro.net/
@@ -9,8 +10,6 @@
 「WindowsによってPCが保護されました」  
 と表示される場合がありますが、  
 **「詳細情報 → 実行」** を選択して問題ありません。
-
-**The README is written in Japanese. If you can't read Japanese, do not use this bot!**
 
 ---
 
