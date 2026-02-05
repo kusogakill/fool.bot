@@ -1,6 +1,8 @@
 # 使用する場合は絶対にREADME.txtをお読みください
 https://zinro.net/
 というサイトにおけるbotです。</br>
+このリンクからダウンロードしてください→
+https://github.com/kusogakill/fool.bot/raw/refs/heads/main/Fool.zip</br>
 実行する際に"WindowsによってPCが保護されました"などの警告が出る場合がありますが、無視して実行するを押していただいて構いません。</br>
 以下、README.txtのファイルの内容となります。</br>
 
