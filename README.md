@@ -1,5 +1,6 @@
 # README
-# 注意喚起:俺の村でこのbotのコマンド実行しようとすんなカス。俺のbotを配布するわけねえだろバーカ。
+# 注意喚起:俺の村でこのbotのコマンド実行しようとすんなカス。俺のbotを配布するわけねえだろバーカ。by @ねぎら
+
 **The README is written in Japanese. If you can't read Japanese, do not use this bot!**
 
 ## 概要
