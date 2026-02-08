@@ -124,4 +124,6 @@
 
 ---
 
+# なお、これらのコマンドは2 Negira 2 Botとの互換性がありません。
+
 <small>© 2026 Nitori, negiradomoti All rights reserved.</small>
