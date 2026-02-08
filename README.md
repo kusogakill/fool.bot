@@ -1,4 +1,5 @@
 # README
+# 注意喚起:このbotは2 Negira 2 Bot、及びVitaとの一切の関係はありません。このbotのコマンドをfool.botが起動されている場所以外で使用しても何も起こりません。
 **The README is written in Japanese. If you can't read Japanese, do not use this bot!**
 
 ## 概要
